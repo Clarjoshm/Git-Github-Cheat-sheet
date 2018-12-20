@@ -7,7 +7,7 @@ Cheat sheet for Git and Github
 ==================================================================
 # Baisc commands for Git
 ------------------------------------------------------------------
-$ git init            //Initialize Local Git Reository
+$ git init            //Initialize Local Git Repository
 $ git add (file)       //Add File(s) To Index
 $ git status           //Check Status Of Working Tree
 $ git push             //Push To Remote Repository
